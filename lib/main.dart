@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:liveness_plugin/liveness_plugin.dart';
+
+// import 'package:liveness_plugin/liveness/lib/liveness_plugin.dart';
 
 void main() {
+  LivenessPlugin.initSDKOfLicense(Market.Thailand);
   runApp(MyApp());
 }
 

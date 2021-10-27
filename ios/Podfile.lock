@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - liveness_plugin (1.2.0):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - liveness_plugin (from `.symlinks/plugins/liveness_plugin/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  liveness_plugin:
+    :path: ".symlinks/plugins/liveness_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  liveness_plugin: c613b10d912918227ea5de09655307528534cbdd
+
+PODFILE CHECKSUM: 759a75dc1027131f9b3081430e3b4d7bf502bbe6
+
+COCOAPODS: 1.10.1
