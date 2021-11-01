@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/liveness_plugin/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
   liveness_plugin: c613b10d912918227ea5de09655307528534cbdd
 
 PODFILE CHECKSUM: 759a75dc1027131f9b3081430e3b4d7bf502bbe6
